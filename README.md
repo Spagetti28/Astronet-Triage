@@ -1,4 +1,6 @@
-This is a variation of the Liang model found in https://github.com/yuliang419/Astronet-Vetting.
+This is a variation of the Tey et al (2023) model, which in turn is based on the
+
+Liang model found in https://github.com/yuliang419/Astronet-Vetting.
 
 #### Basic commands
 
